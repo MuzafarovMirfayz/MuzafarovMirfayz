@@ -10,7 +10,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1AF7AB&background=26A99B00&center=true&vCenter=true&repeat=false&width=430&lines=I%E2%80%99m+currently+learning+Frontend;DotNET+Developer" alt="Typing SVG" /></a>
     
 </p>
-<img src="https://img.freepik.com/premium-psd/3d-icon-verify_148391-180.jpg?size=626&ext=jpg&ga=GA1.1.952332461.1694589924&semt=ais" alt="Verify" width="40" height="40"/>
+
 <h2>Languages and Tools:</h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
