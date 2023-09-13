@@ -6,7 +6,11 @@
   </h3>
   <p><img src="https://komarev.com/ghpvc/?username=muzafarovmirfayz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></p>
 </div>
-
+<p align="center">
+    <a href="https://github.com/radjabov/readme-typing-svg">
+        <img
+                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=DotNet+Developer&center=true&width=580&height=45"></a>
+</p>
 <h2>Languages and Tools:</h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
