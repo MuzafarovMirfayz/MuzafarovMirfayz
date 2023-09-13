@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h3 align="center">
+    Assalamu Alaykum!
+  Welcome to my profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
   <p><img src="https://komarev.com/ghpvc/?username=muzafarovmirfayz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></p>
-  <p>I'm Mirfayz Muzafarov, currently learning Frontend development.</p>
 </div>
 
 <h2>Languages and Tools:</h2>
