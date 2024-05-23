@@ -7,8 +7,7 @@
   <p><img src="https://komarev.com/ghpvc/?username=muzafarovmirfayz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></p>
 </div>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1AF7AB&background=26A99B00&center=true&vCenter=true&repeat=false&width=430&lines=I%E2%80%99m+currently+learning+Frontend;DotNET+Developer" alt="Typing SVG" /></a>
-    
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h2>Languages and Tools:</h2>
